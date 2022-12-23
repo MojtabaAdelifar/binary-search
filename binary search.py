@@ -1,5 +1,5 @@
 
-
+# binary search algorithm
 def binarySearch(array, key):
     min_index = 0
     max_index = len(array) - 1
@@ -19,6 +19,7 @@ def binarySearch(array, key):
 
     return -1
 
+# the function implementation
 run = True
 while run:
 
